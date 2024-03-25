@@ -1,0 +1,15 @@
+{
+  "mapdir": "map.w3x",
+  "files": [],
+  "lua": {
+    "package": {
+      "path": [
+        "./?.lua",
+        "./?/init.lua",
+        "./Override/?.lua",
+        "./lib/stdlib/?.lua",
+        "./lib/stdlib/?/init.lua"
+      ]
+    }
+  }
+}
